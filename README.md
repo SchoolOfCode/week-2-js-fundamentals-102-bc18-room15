@@ -31,16 +31,16 @@ Use the following values exactly for the correct password and secret:
 
 ## Ticket 1 - Getting set up
 
-- First, run `npm install` after cloning the repository.
-- In this repository, create an HTML file called `index.html` and a JS file `index.js` in which to complete the following steps.
-- Have the HTML load the JS file.
-- Within the JS file, store the correct password `correctPassword` (`"myPassword1!"`) in a variable as a string and the secret information `secretInformation` (`"My favourite colour is #000080!"`) in another variable as a string.
+- First, run `npm install` after cloning the repository.✅
+- In this repository, create an HTML file called `index.html` and a JS file `index.js` in which to complete the following steps.✅
+- Have the HTML load the JS file.✅
+- Within the JS file, store the correct password `correctPassword` (`"myPassword1!"`) in a variable as a string and the secret information `secretInformation` (`"My favourite colour is #000080!"`) in another variable as a string.✅
 
 🧪 _To check that this step is working, `console.log` the variables you've created and make sure they contain the correct values. You can also temporarily add a `console.log("Hello from JS file");` at the top of your JS file and then check if that log appears in the console (open dev tools) when you open the HTML file in a browser. If it doesn't, the JS file may not be linked correctly._
 
 - run in the console `npx jest` to see if pass ticket1.
 
-## Ticket 2 - Getting user input
+## Ticket 2 - Getting user input✅
 
 - We will be using the built in [`prompt`](https://www.w3schools.com/jsref/met_win_prompt.asp) function to "prompt" the user for an input:
 
